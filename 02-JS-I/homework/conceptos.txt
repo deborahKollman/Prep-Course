@@ -1,0 +1,12 @@
+Variables: son cosas que pueden tomar un valor, que pueden contener algo, como palabras o numeros
+
+Strings: son conjuntos de letras, pueden ser desde una sola letra hasta oraciones enteras.
+
+Funciones: Es algo que podes programar para hacer algo determinado. Se le pueden pasar argumentos para que puedan darte un resultado, como una cuenta, o para que haga algo con eso, como formar una frase.
+-Argumentos: son variables que se le puede asignar a una funcion para que pueda hacer algo con estas o para utilizarlas en otra cosa.
+-"return": es una palabra que le indica a la funcion que tiene que devolver un valor a la linea que la llamó. Despues del return, la funcion para su ejecucion.
+
+Declaracion "if": Ayuda a que el programa haga una cosa u otra dependiendo de los argumentos que se le pasen a la declaracion.
+
+Valores booleanos: Pueden ser "true"(verdadero) o "false"(falso). Las variables pueden tomar estos valores por comparaciones o ser asignados directamente.
+
