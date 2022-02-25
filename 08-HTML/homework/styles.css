@@ -1,3 +1,16 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://i.pinimg.com/originals/5d/0f/1f/5d0f1f044374c6a2912e679b74a9be45.jpg");
+}
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 #thirdDiv{
     height: 600px;
     width: 500px;
